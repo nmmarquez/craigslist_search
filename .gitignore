@@ -1,0 +1,9 @@
+# OS X
+.DS_Store
+
+# webstorm
+.idea/
+
+# others
+*.pyc
+*~
